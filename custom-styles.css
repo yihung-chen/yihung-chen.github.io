@@ -1,14 +1,12 @@
-/* 引入 Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@400;700&display=swap');
+/* 1. 確保從 Google Fonts 載入 Lora */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-/* 套用到全站文字 */
-body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 17px; /* 稍微放大一點，增加閱讀舒適度 */
+/* 2. 強制套用到所有文字 */
+html, body, p, div, li, a {
+    font-family: 'Lora', serif !important;
 }
 
-/* 套用到標題（如論文題目、頁面標題） */
-h1, h2, h3, h4, .navbar-brand {
-  font-family: 'Lora', serif;
-  font-weight: 700;
+/* 3. 強制套用到所有標題 */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif !important;
 }
