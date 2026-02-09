@@ -1,0 +1,12 @@
+/* 1. 確保從 Google Fonts 載入 Lora */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* 2. 強制套用到所有文字 */
+html, body, p, div, li, a {
+    font-family: 'Lora', serif !important;
+}
+
+/* 3. 強制套用到所有標題 */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif !important;
+}
