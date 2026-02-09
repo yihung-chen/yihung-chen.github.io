@@ -3,7 +3,7 @@ layout: default
 title: "Curriculum Vitae"
 permalink: /Curriculum Vitae/
 author_profile: true
-published: false
+published: true
 ---
 
 ## Conference Papers
