@@ -12,7 +12,6 @@ author_profile: true
 * **Yi-Hung Chen**. 2025. "Democracy without Accountability? Political Promotion Facilitated by Party Rules." Presented at the *2025 APSA Annual Meeting & Exhibition*. September 11-14. Vancouver, Canada.
 * **Yi-Hung Chen**. 2025. "Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election." Presented at the *2025 APSA Annual Meeting & Exhibition*. September 11-14. Vancouver, Canada. (with Jason Kuo)
 * **Yi-Hung Chen**. 2025. "Democracy without Accountability? Political Promotion Facilitated by Party Rules." Presented at the *IPSA World Congress*. July 12-16. Seoul, South Korea.
-* **Yi-Hung Chen**. 2025. "Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election." Presented at the *2025 Annual Convention of International Studies Association*. March 5. Chicago, USA. (with Jason Kuo)
 * **Yi-Hung Chen**. 2025. "Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election." Presented at the *2025 ASQPS meeting*. January 10. Wellington, New Zealand. (with Jason Kuo)
 * **Yi-Hung Chen**. 2024. "Democracy without Accountability? Political Promotion Facilitated by Party Rules." Presented at *WAPOR 77th and WAPOR Asia Pacific*. July 31. Seoul, South Korea. (with Jason Kuo).
 * **陳羿宏**（2023）。〈為什麼立法委員參選縣市首長？一個政黨中心的解釋〉。*台灣政治學會年會暨「國際秩序的衝擊和民主政治的挑戰」國際學術研討會*（2023 年 11 月 11 日）。高雄：中山大學。
