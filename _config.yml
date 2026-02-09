@@ -21,7 +21,7 @@ author: Yi-Hung
 
 navbar-links:
   About Me: "aboutme"
-  Curriculum Vitae: "Curriculum Vitae"
+#  Curriculum Vitae: "Curriculum Vitae"
   Research: "Research"
 
 ################
