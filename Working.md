@@ -4,6 +4,14 @@ title: "Working Papers"
 permalink: /Working Papers/
 ---
 
+<style>
+details p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.75;
+}
+</style>
+
 ## 		A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping
 
 *Political Parties · Electoral Politics*
