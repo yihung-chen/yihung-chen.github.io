@@ -4,12 +4,6 @@ title: "Working Papers"
 permalink: /Working Papers/
 ---
 
----
-layout: page
-title: "Working Papers"
-permalink: /Working Papers/
----
-
 <style>
 /* Compact academic research page */
 .working-papers h2 {
