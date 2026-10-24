@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Working Papers"
-permalink: /working-papers/
+permalink: /Working Papers/
 ---
 
 ## Why Legislators Resign for Mayoral Races? A Study on Taiwan, 2008–2020
