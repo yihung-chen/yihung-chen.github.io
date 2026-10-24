@@ -14,6 +14,8 @@ details p {
 
 ## 		A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping
 
+![Taiwan's political institutions and party nomination rules](/assets/img/fig3_territory_primary.png)
+
 *Political Parties · Electoral Politics*
 
 <details>
