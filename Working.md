@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Working Papers"
@@ -212,7 +211,7 @@ permalink: /working-papers/
 <article class="paper-item"
          data-tags="political-parties electoral-politics">
 
-## A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping
+<h2>A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping</h2>
 
 <!-- 文章下方顯示的研究領域標籤 -->
 <p class="research-fields"><em>Political Parties · Electoral Politics</em></p>
@@ -239,7 +238,7 @@ permalink: /working-papers/
 <article class="paper-item"
          data-tags="political-behavior electoral-politics">
 
-## Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan
+<h2>Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan</h2>
 
 <p class="research-fields"><em>Political Behavior · Electoral Politics</em></p>
 
@@ -263,7 +262,7 @@ permalink: /working-papers/
 <article class="paper-item"
          data-tags="political-behavior public-opinion">
 
-## When the Signal Breaks: Origin-Country Elite Conflict and Vaccine Acceptance in Taiwan
+<h2>When the Signal Breaks: Origin-Country Elite Conflict and Vaccine Acceptance in Taiwan</h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
@@ -291,7 +290,7 @@ permalink: /working-papers/
 <article class="paper-item"
          data-tags="political-behavior public-opinion political-economy foreign-economic-coercion">
 
-## Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election
+<h2>Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election</h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
@@ -317,7 +316,7 @@ permalink: /working-papers/
 <article class="paper-item"
          data-tags="political-behavior public-opinion political-economy">
 
-## From Rally to Rupture: Trump’s Tariffs in Taiwan
+<h2>From Rally to Rupture: Trump’s Tariffs in Taiwan</h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
