@@ -2,7 +2,7 @@
 ---
 layout: page
 title: "Working Papers"
-permalink: /WorkingPapers/
+permalink: /working-papers/
 ---
 
 <style>
