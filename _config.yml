@@ -278,6 +278,7 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      show-avatar: false   # 左欄已有照片，導覽列不再顯示小頭像
 
 # Exclude these files from production site
 exclude:
