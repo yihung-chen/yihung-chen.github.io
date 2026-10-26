@@ -10,3 +10,16 @@ html, body, p, div, li, a {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lora', serif !important;
 }
+
+/* 3. Teaching 頁面照片 */
+.teaching-gallery-wrap {
+  margin: 1.5rem 0;
+}
+.teaching-gallery-wrap .teaching-gallery {
+  margin: 0;
+}
+.teaching-gallery-wrap figcaption {
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 0.6rem;
+}
