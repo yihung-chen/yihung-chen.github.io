@@ -92,11 +92,4 @@ h1, h2, h3, h4, h5, h6 {
   .sidebar-links li { display: inline-block; margin: 0 0.6rem; }
 }
 
-/* 3. Teaching 頁面照片 */
-# .teaching-gallery {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 0.75rem;
-  max-width: 520px;     /* 兩張照片合起來的總寬度，數字越小照片越小 */
-  margin: 1.5rem 0;
-}
+
