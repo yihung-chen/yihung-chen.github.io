@@ -10,9 +10,3 @@ html, body, p, div, li, a {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lora', serif !important;
 }
-
-/* 內文左右對齊 */
-.page-main p {
-  text-align: justify;
-  text-justify: inter-word;
-}
