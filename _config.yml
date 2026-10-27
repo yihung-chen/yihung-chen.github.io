@@ -53,7 +53,8 @@ social-network-links:
   email: "yves.yhc@gmail.com"
   github: yihung-chen
   ORCID: 0009-0004-4150-8641
-  
+  google-scholar: https://scholar.google.com/citations?hl=zh-TW&user=laB9HskAAAAJ&view_op=list_works&authuser=1&gmla=AN_4Zu9YuhhGHh4Dzt_ogeo98j_R8M8om5dhFc2ihfau19csBO37wseBz7fztVVF4vdSFcraLfGo9WrlcNlaBcm7j_AQiprRwtJo9mKD7GA
+
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -71,7 +72,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
