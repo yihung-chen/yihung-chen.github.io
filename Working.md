@@ -209,12 +209,12 @@ permalink: /working-papers/
      ======================================================= -->
 
 <article class="paper-item"
-         data-tags="political-parties electoral-politics">
+         data-tags="political-parties political-behavior">
 
 <h2>A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping</h2>
 
 <!-- 文章下方顯示的研究領域標籤 -->
-<p class="research-fields"><em>Political Parties · Electoral Politics</em></p>
+<p class="research-fields"><em>Political Parties · Political Behavior</em></p>
 
 <!-- 摘要內容：修改摘要時，只需要更改這個區塊 -->
 <details>
