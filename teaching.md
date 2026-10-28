@@ -6,9 +6,10 @@ permalink: /Teaching/
 
 ## Teaching Assistant
 
-International Relations I & II, 2022 - Present,
-
-  with Prof. Jason Kuo, National Taiwan University.
+<p class="teaching-item">
+  International Relations I &amp; II, 2022–Present<br>
+  <span class="teaching-meta">with Prof. Jason Kuo, National Taiwan University</span>
+</p>
 
 <div class="teaching-gallery">
 
