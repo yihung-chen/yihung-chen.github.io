@@ -93,3 +93,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/* Teaching 頁：課程名稱下方的小字 */
+.teaching-item {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+.teaching-meta {
+  font-size: 0.88rem;   /* 小字的大小，數字越小字越小 */
+  color: #666;          /* 小字顏色，不想變灰可刪掉這行 */
+}
