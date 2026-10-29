@@ -394,7 +394,7 @@ permalink: /research/
 <ul class="wip-list">
   <li>Who Owns the Machines?</li>
   <li>Subnational Mediation of Economic Coercion: The Political Returns of China's Selective Reopening to Taiwanese Agricultural Imports <span class="wip-coauthor">(with Jason Kuo)</span></li>
-  <li>Frames Without Referents: Issue Salience and the Temporal Boundaries of Information Effects on Redistribution Preferences<span class="wip-coauthor">(with Chun-Fang Chiang and Jason Kuo)</span></li>
+  <li>Frames Without Referents: Issue Salience and the Temporal Boundaries of Information Effects on Redistribution Preferences <span class="wip-coauthor">(with Chun-Fang Chiang and Jason Kuo)</span></li>
 </ul>
 
 </div>
