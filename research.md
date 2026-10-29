@@ -392,8 +392,9 @@ permalink: /research/
 <h2 class="paper-section-title">Work in Progress</h2>
 
 <ul class="wip-list">
-  <li>論文標題一</li>
-  <li>論文標題二 <span class="wip-coauthor">(with 共同作者)</span></li>
+  <li>Who Owns the Machines?</li>
+  <li>Subnational Mediation of Economic Coercion: The Political Returns of China's Selective Reopening to Taiwanese Agricultural Imports <span class="wip-coauthor">(with Jason Kuo)</span></li>
+  <li>Frames Without Referents: Issue Salience and the Temporal Boundaries of Information Effects on Redistribution Preferences<span class="wip-coauthor">(with Chun-Fang Chiang and Jason Kuo)</span></li>
 </ul>
 
 </div>
