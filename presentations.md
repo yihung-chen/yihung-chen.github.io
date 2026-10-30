@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Conference Papers
+## Conference Papers (Selected)
 
 * **Yi-Hung Chen**. 2026. "When the Signal Breaks: Origin-Country Elite Conflict and Vaccine Acceptance in Taiwan." Presented at the *台灣政治學會年會暨「人工智慧（AI）時代的政治學再定位」國際學術研討會*. （2026 年 11 月 14 日）。高雄：中山大學。
 * **Yi-Hung Chen**. 2026. "Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan." Presented at the *2026 APSA Annual Meeting & Exhibition*. September 3-6. Boston, MA.
