@@ -284,7 +284,10 @@ permalink: /research/
 
 <!-- 論文連結：只留下有的項目，沒有的那一行直接刪掉 -->
 <p class="paper-links">
-  <!-- <a href="/assets/slides/2026_APSA_slide.pdf" target="_blank">slides</a> -->
+  <!-- <a href="/assets/papers/檔名.pdf" target="_blank">paper</a> -->
+  <!-- <a href="/assets/papers/檔名-appendix.pdf" target="_blank">supplementary materials</a> -->
+  <!-- <a href="https://dataverse.harvard.edu/..." target="_blank">replication files</a> -->
+    <a href="/assets/slides/2026_APSA_slide.pdf" target="_blank">slides</a>
 </p>
 
 <!-- 摘要內容：修改摘要時，只需要更改這個區塊 -->
