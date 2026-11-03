@@ -277,7 +277,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-parties political-behavior">
 
-<h2>A Party-Made Ladder: Intra-Party Nomination Rules and the Institutionalization of Level-Hopping</h2>
+<h2>A Party-Made Ladder: Primaries, Drafts, and the Certification of Political Promotion</h2>
 
 <!-- 文章下方顯示的研究領域標籤 -->
 <p class="research-fields"><em>Political Parties · Political Behavior</em></p>
@@ -291,7 +291,7 @@ permalink: /research/
 <details>
 <summary>Show Abstract</summary>
 
-<p>When legislators can run for executive office without giving up their seats, what restrains cross-level ambition, and why do voters accept it? This article argues that, where parties control nominations, intra-party rules both ration access to higher office and legitimate those who obtain it. Because a mid-term candidacy shifts its risks from the individual to the party, the party decides who may climb, where, and by which route. Evidence from Taiwan, combining original data on all legislators elected 2008–2020, a survey experiment, and elite interviews, supports this argument. Legislators seek executive office almost only in races their party leaves open, party rules shape where they compete in primaries, and those with a strong existing base are drafted. Voters judge such moves through partisanship: co-partisans tolerate them, out-partisans condemn them, and primaries raise support only among co-partisans. Accountability for mid-term departures thus shifts from constituents to parties.</p>
+<p>Running for higher office is usually read as evidence of political ambition, because it puts a politician’s current seat at risk. Where legislators can run without giving up their seats, a candidacy no longer reveals ambition, and parties must certify it. This article argues that primaries and drafts are two such certification devices. Primaries test the ambition of legislators who choose to compete in winnable races, whereas drafts let parties field endorsed candidates where few would volunteer. Evidence from Taiwan, combining original data on all KMT and DPP legislators elected 2008-2020, a survey experiment, and elite interviews, supports this argument. Legislators enter primaries mainly where their party is strong, and parties draft those with a strong existing base. Voters read the two devices as signals of different strength. Co-partisans reward primary-selected legislators more than drafted ones, whereas out-partisans oppose both.</p>
 
 </details>
 
