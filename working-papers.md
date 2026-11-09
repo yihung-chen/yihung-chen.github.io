@@ -19,6 +19,26 @@ permalink: /working-papers/
   font-weight: 600;
 }
 
+/* 論文狀態標籤：Under Review / R&R 等 */
+.working-papers .paper-status {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: #1a3d7c;            /* 文字顏色（目前跟網站連結同色） */
+  border: 1px solid #1a3d7c; /* 外框顏色 */
+  border-radius: 3px;
+  padding: 0.05rem 0.4rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  white-space: nowrap;       /* 標籤不會被拆成兩行 */
+}
+
+/* R&R 用不同顏色：只要在 class 加上 rr */
+.working-papers .paper-status.rr {
+  color: #8a6d1d;
+  border-color: #D4AF37;
+}
+
 /* 論文的研究領域標籤 */
 .working-papers .research-fields {
   font-size: 0.9rem;
