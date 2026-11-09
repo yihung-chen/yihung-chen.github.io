@@ -332,7 +332,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior electoral-politics">
 
-<h2>Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan<span class="paper-status">Under Review</span></h2>
+<h2>Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan<span class="paper-status">Manuscript Available Upon Request</span></h2>
 
 <p class="research-fields"><em>Political Behavior · Electoral Politics</em></p>
 
@@ -434,7 +434,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior public-opinion political-economy">
 
-<h2>From Rally to Rupture: Trump’s Tariffs in Taiwan<span class="paper-status">Manuscript available upon request</span></h2>
+<h2>From Rally to Rupture: Trump’s Tariffs in Taiwan<span class="paper-status">Manuscript Available Upon Request</span></h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
