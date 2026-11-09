@@ -277,7 +277,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-parties political-behavior">
 
-<h2>A Party-Made Ladder: Primaries, Drafts, and the Certification of Political Promotion</h2>
+<h2>A Party-Made Ladder: Primaries, Drafts, and the Certification of Political Promotion<span class="paper-status">Under Review</span></h2>
 
 <!-- 文章下方顯示的研究領域標籤 -->
 <p class="research-fields"><em>Political Parties · Political Behavior</em></p>
@@ -312,7 +312,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior electoral-politics">
 
-<h2>Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan</h2>
+<h2>Ambition, Horizontal Coordination, and the Reverse Coattail Effect: Evidence from Taiwan<span class="paper-status">Under Review</span></h2>
 
 <p class="research-fields"><em>Political Behavior · Electoral Politics</em></p>
 
@@ -344,7 +344,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior public-opinion">
 
-<h2>When the Signal Breaks: Origin-Country Elite Conflict and Vaccine Acceptance in Taiwan</h2>
+<h2>When the Signal Breaks: Origin-Country Elite Conflict and Vaccine Acceptance in Taiwan<span class="paper-status">Under Review</span></h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
@@ -380,7 +380,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior public-opinion political-economy foreign-economic-coercion">
 
-<h2>Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election</h2>
+<h2>Backlash to Weaponized Non-Tariff Trade Barriers: Evidence from the Chinese Mango Ban in the 2024 Taiwan Presidential Election<span class="paper-status">Under Review</span></h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
@@ -414,7 +414,7 @@ permalink: /research/
 <article class="paper-item"
          data-tags="political-behavior public-opinion political-economy">
 
-<h2>From Rally to Rupture: Trump’s Tariffs in Taiwan</h2>
+<h2>From Rally to Rupture: Trump’s Tariffs in Taiwan<span class="paper-status">Manuscript available upon request</span></h2>
 
 <p class="coauthor">(with Jason Kuo)</p>
 
