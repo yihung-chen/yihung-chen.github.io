@@ -474,6 +474,7 @@ permalink: /research/
 
 <ul class="wip-list">
   <li>Whose Brokers? Redistricting and the Ownership of Electoral Networks </li>
+  <li>From Club Good to Public Good: Bureaucratizing Self-Governance and the Erosion of Local Machines in Taiwan</li>
   <li>Subnational Mediation of Economic Coercion: The Political Returns of China's Selective Reopening to Taiwanese Agricultural Imports <span class="wip-coauthor">(with Jason Kuo)</span></li>
   <li>Frames Without Referents: Issue Salience and the Temporal Boundaries of Information Effects on Redistribution Preferences <span class="wip-coauthor">(with Chun-Fang Chiang and Jason Kuo)</span></li>
 </ul>
