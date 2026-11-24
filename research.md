@@ -470,7 +470,7 @@ permalink: /research/
 
 <div class="wip-section">
 
-<h2 class="paper-section-title">Work in Progress</h2>
+<h2 class="paper-section-title">Work in Progress (SELECTED)</h2>
 
 <ul class="wip-list">
   <li>Whose Brokers? Redistricting and the Ownership of Electoral Networks </li>
